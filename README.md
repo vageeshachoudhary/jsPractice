@@ -1,2 +1,2 @@
-# jsPractice
-practice JS basics
+# JS Practice
+practice code to learn JS basics
